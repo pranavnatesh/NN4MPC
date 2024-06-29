@@ -8,4 +8,4 @@ Training Pipeline:
 3. Train a NN using Generators/NN_Trainer
 4. Evaluate performance using Simulation_and_Visualisations/NN4MPC
 
-During the trainig pipeline, pay close attention to what data is being accessed. The grid, training data, and NN models are saved in folders and need not be accessed manually.
+During the training pipeline, pay close attention to what data is being accessed. The grid, training data, and NN models are saved in folders and need not be accessed manually.
